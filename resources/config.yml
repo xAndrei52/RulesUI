@@ -1,0 +1,8 @@
+---
+# Join msg
+msg: "Welcome to the server"
+# Form settings
+title: "Welcome"
+content: "Please read our rules!\n 1)Test\n 2)Test2\n 3)You can add more lines etc on the config with \n!" 
+button: "Play"
+...
