@@ -1,8 +1,8 @@
 ---
 # Join msg
-msg: "Welcome to the server"
+msg: "§cWelcome to the server."
 # Form settings
-title: "Welcome"
-content: "Please read our rules!\n 1)Test\n 2)Test2\n 3)You can add more lines etc on the config with \n!" 
-button: "Play"
+title: "Staff"
+content: "§4Owners: §fMarioTN04,KenoZeu\n§aAdmin: §fxRaulGaming180x\n§bMod: §fqKoppe\n§2Helper: §fEdyGamerRo\n§7plugin made by xAndrei52 :)" 
+button: "I undestand okk"
 ...
