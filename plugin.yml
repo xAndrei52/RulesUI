@@ -5,5 +5,7 @@ api: [3.0.0, 3.0.2, 4.0.0]
 version: 1.0.0
 commands:
  staffserver:
+  aliases: [sos]
   description: List all players from the staff
   usage: /staffserver
+  permission: staffserver.command.ss
