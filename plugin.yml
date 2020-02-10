@@ -1,5 +1,9 @@
-name: RulesUI
+name: StaffServerUI
 author: ignatiosg#1030-XSlimeX
 main: RulesUI\Main
 api: [3.0.0, 3.0.2, 4.0.0]
 version: 1.0.0
+commands:
+ staffserver:
+  description: List all players from the staff
+  usage: /staffserver
